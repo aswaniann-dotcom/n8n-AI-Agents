@@ -4,7 +4,7 @@ This project contains an **n8n workflow** that implements a **Retrieval-Augmente
 
 The solution is designed to support scalable document ingestion, semantic search, and conversational AI grounded in enterprise knowledge sources.
 
----
+----
 
 ## 🚀 Overview
 
